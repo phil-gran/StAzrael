@@ -53,6 +53,7 @@ video {
     body::before {
         height: 50px; /* Adjust height for mobile view */
     }
+}
 
 /* Mobile responsive adjustments */
 @media (max-width: 767.98px) {
