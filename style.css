@@ -53,7 +53,7 @@ video {
     body::before {
         display: block;
         content: '';
-        height: 150px; /* Adjust height for mobile view */
+        height: 250px; /* Adjust height for mobile view */
     }
 }
 
