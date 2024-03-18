@@ -51,7 +51,9 @@ video {
 
     /* For example, adjust the height of the ::before pseudo-element */
     body::before {
-        height: 50px; /* Adjust height for mobile view */
+        display: block;
+        content: '';
+        height: 90px; /* Adjust height for mobile view */
     }
 }
 
